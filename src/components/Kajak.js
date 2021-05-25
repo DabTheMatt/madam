@@ -76,17 +76,17 @@ justify-content: center;
 height: 100vh;
 color: #495057;
 h1{
-    font-size: 8rem;
+    font-size: 9vw;
     font-weight: 300;
     margin-top: -10rem;
 }
 
 input {
-    font-size: 3rem;
+    font-size: 4vw;
     text-align: center;
     border: none;
     border-bottom: 1px solid grey;
-    width: auto;
+    width: 70vw;;
     outline: none;
     text-transform: lowercase;
     background: #ede0d4;
@@ -94,10 +94,11 @@ input {
     opacity: 0.7;
     font-family: 'Bitter', serif;
     font-weight: 300;
+    height: 2.5rem;
     ::placeholder {
         
         font-family: 'Bitter', serif;
-        font-size: 2rem;
+        font-size: 4vw;
         font-weight: 300;
         color: #6c757d;
         opacity: 0.5;
@@ -112,6 +113,7 @@ input {
         font-weight: 200;
         p {
             margin-top: 8rem;
+            font-size: 2vw; 
         }
     }
 
