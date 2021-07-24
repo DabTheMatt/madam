@@ -82,7 +82,7 @@ h1{
 }
 
 input {
-    font-size: 4vw;
+    font-size: 4em;
     text-align: center;
     border: none;
     border-bottom: 1px solid grey;
