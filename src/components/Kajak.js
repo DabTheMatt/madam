@@ -94,7 +94,7 @@ input {
     opacity: 0.7;
     font-family: 'Bitter', serif;
     font-weight: 300;
-    height: 2.5rem;
+    height: 6rem;
     ::placeholder {
         
         font-family: 'Bitter', serif;
